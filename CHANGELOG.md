@@ -1,3 +1,16 @@
+### 1.9
+ - Added AMSI bypass
+ - Fix the ps1 load with large size
+ - Kerberos auth support
+ - Improve upload/download functionality
+
+### 1.8
+ - Added pass-the-hash feature
+ - Added bundler installation method
+ 
+### 1.7
+ - Added x64 compatibility to use Donut payloads
+
 ### 1.6
  - Added SSL and certificates support
  - Upload/download messages improved
